@@ -3,8 +3,12 @@
 ![demoPic](https://github.com/SusanLulu/Javascript-final-demo-ThailandLantern/raw/master/demoPic.png)
 
 -----------------
-### programmer: WeiLin,Lee   Susan,Lu 
-### designer: YaoPing,Lin
+### programmer: 
+</br > WeiLin,Lee   
+</br> Susan,Lu 
+</br>
+### designer:
+</br> YaoPing,Lin
 
 ----------------
 - using CreateJS
